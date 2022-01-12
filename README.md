@@ -6,7 +6,11 @@ Sistema PACS (Picture Archiving and Communication System) com armazenamento e di
 
 ### Features
 
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
+- Multiplataforma, ou seja, funciona nos principais sistema operacionais do mercado, como Windows, Linux e MacOS
+- Visualizador de exames médicos Web e desktop;
+- Possibilidade de integração do sistemas de gestão hospitalar através de Web Service;
+- Worklist para gestão de trabalho para equipamentos médicos;
+- Versão mobile para acesso a imagens médicas por celulares e tablets.
 
 
 
