@@ -9,3 +9,5 @@ Sistema PACS (Picture Archiving and Communication System) com armazenamento e di
 <img src="https://github.com/zafaz-tecnologic/health/blob/main/images/logo_zafaz.png" width="48">
 
 ![](https://github.com/zafaz-tecnologic/health/blob/main/images/logo_zafaz.png =200)
+
+[<img src="https://github.com/zafaz-tecnologic/health/blob/main/images/logo_zafaz.png" width="250"/>](https://github.com/zafaz-tecnologic/health/blob/main/images/logo_zafaz.png)
