@@ -1,4 +1,4 @@
-[<img src="https://github.com/zafaz-tecnologic/health/blob/main/images/logo_zafaz.png" width="200"/>](https://github.com/zafaz-tecnologic/health/blob/main/images/logo_zafaz.png)
+[<img src="images/logo_zafaz.png" width="200"/>](images/logo_zafaz.png)
 
 # Health
 
