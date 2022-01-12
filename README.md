@@ -1,8 +1,9 @@
 [<p align="center"><img src="images/logo_zafaz.png" width="200"/></p>](images/logo_zafaz.png)
-
+<p style="text-align: center;">
 # Health
 
 Sistema PACS (Picture Archiving and Communication System) com armazenamento e distribuição de imagens Radiológicas, fornecendo acesso externo (qualquer local com internet) para visualização das imagens e confecção de laudos médico.
+  </p>
 
 ### Features
 
