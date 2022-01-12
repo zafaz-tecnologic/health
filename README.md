@@ -13,5 +13,12 @@ Sistema PACS (Picture Archiving and Communication System) com armazenamento e di
 - Worklist para gestão de trabalho para equipamentos médicos;
 - Versão mobile para acesso a imagens médicas por celulares e tablets.
 
+### Screenshots
+
+- Seu Funcionamento se da sob plataforma web e funciona nos principais navegadores do mercado como Firefox, Chrome, Internet Explore, Safari entre outros possui visualizador Desktop e funciona em qualquer sistema operacional do mercado como Linux, Windows e MacOS.
+
+[<p align="center"><img src="images/studies.png" width="600"/></p>](images/studies.png)
+
+
 
 
