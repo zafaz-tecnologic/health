@@ -8,6 +8,6 @@ Sistema PACS (Picture Archiving and Communication System) com armazenamento e di
 
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
 
-![image description]('images/logo_zafaz.png'){width=250px}
+![image description](images/logo_zafaz.png){width=250px}
 
 
