@@ -10,4 +10,6 @@ Sistema PACS (Picture Archiving and Communication System) com armazenamento e di
 
 ![image description](images/logo_zafaz.png){width=250px}
 
+<img src="images/logo_zafaz.png" width="324">
+
 
