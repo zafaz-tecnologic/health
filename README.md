@@ -1,4 +1,4 @@
-[<img src="images/logo_zafaz.png" width="200"/>](images/logo_zafaz.png)
+[<img src="images/logo_zafaz.png" width="200" alt="centered image"/>](images/logo_zafaz.png)
 
 # Health
 
